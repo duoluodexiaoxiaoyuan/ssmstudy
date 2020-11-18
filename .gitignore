@@ -1,0 +1,5 @@
+# Project exclude paths
+/mavenweb/target/
+/mybatis/target/
+/spring/target/
+/ssm整合/target/
